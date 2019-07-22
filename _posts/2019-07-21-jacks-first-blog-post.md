@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Welcome to Jacks first blog post!"
 date: 2019-07-21
 ---
